@@ -1,0 +1,7 @@
+# Ignore Xcode user-specific data
+H4X0R.xcodeproj/xcuserdata/
+H4X0R.xcodeproj/project.xcworkspace/
+H4X0R.xcodeproj/*.xcworkspace/
+H4X0R.xcodeproj/*.xcuserdatad/
+H4X0R.xcodeproj/*.xcuserstate/
+
